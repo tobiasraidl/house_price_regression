@@ -1,0 +1,1 @@
+check if setting numerical typed cols to 0 or mean makes more sense
